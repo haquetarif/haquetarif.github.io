@@ -23,7 +23,7 @@ email: tarif@poems.codes
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, Tarif Haque is a poet and coder based in Dhaka, Bangladesh. It's his personal blog where he updates 
   What's going on in his dev life and all. 
-baseurl: "/haquetarif.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://haquetarif.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tarifhaque
 github_username:  haquetarif
