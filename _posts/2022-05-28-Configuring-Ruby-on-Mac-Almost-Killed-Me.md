@@ -11,7 +11,7 @@ categories: personal update
 
 Hello, It's Tarif Haque a noob dev. 
 
-I love simplicity. Maybe you do as well. 
+I love simplicity. Maybe you do that as well. 
 
 Whatever! The idea of modern static websites always
 intrigued me. But I never had the opportunity to dig
