@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Born in 1991 in Kurigram, a remote northern town in Bangladesh. It was so remote that even national newspapers used to take around 24 hours to reach.
+#### Born in 1991 in Kurigram, a remote northern town in Bangladesh. It was so remote that even national newspapers used to take around 24 hours to reach.
 
 Raised with a mind full of dreams, with science fiction books and videocassette movies. I grew a knack for IT in those early days of my life. Tried to read material about the new internet things like email, search engines, viruses, or anything. 
 
-There was no computer in my town until the early 2000s. But I came to Dhaka, the capital city of our country when I was a teen. There I used the computer and internet for the first time. I got spellbound with the awesomeness of the technology. This way, it can eliminate the barrier of distance. The way it can spread information.
+There was no computer in my town until the early 2000s. But I came to Dhaka, the capital city of our country when I was a teen. There I used the computer and internet for the first time. I got spellbound with the awesomeness of the technology. Especially the way it can eliminate the barrier of distance and spread information amazed me the most.
 
 
-Fast forward to 2011, when I first came across WordPress as a CMS. Then, I started working on a website analyzing global socio-political movements [View Archieves](https://web.archive.org/web/20110527082600/http://move4world.com/).
+Fast forward to 2011, I first came across WordPress as a CMS. Then, I started working on a website analyzing global socio-political movements [[archived version]](https://web.archive.org/web/20110527082600/http://move4world.com/).
 
 It was my first startup. Though it failed, I learned a lot working on this.
 
@@ -23,4 +23,5 @@ Now I am pursuing a Product Leadership career while working as a Product Coordin
 
 I love to stargaze, walk in the moonlight, and read books when I'm free.
 
-I'm trying to create this personal blog using Jekyll. I've hosted in GitHub.
+I'm trying to create this personal blog using Jekyll. I've hosted it on GitHub.
+
