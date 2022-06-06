@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Configuring Ruby on Mac Almost Killed Me!"
+title:  "Configuring Ruby on Mac Almost Drived Me Crazy!"
 date:   2022-05-29 03:26:00 +0600
 categories: personal update
 ---
 
 ## Wanted to work with Jekyll but
-# Configuring Ruby on Mac Almost Killed Me
+# Configuring Ruby on Mac Was Very Frustrating
 ### And how I nailed it
 
 Hello, It's Tarif Haque a noob dev. 
