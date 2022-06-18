@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learn to Code for Non-Engineers in 2022"
+title:  "Codeing for Non-Engineers in 2022"
 date:   2022-06-19 02:47:00 +0600
 categories: tipis & trics
 ---
