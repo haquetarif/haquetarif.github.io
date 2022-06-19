@@ -79,27 +79,25 @@ You can take it by visiting this [link](https://www.edx.org/course/introduction-
 ### Step 3: Get a Feel for Object Oriented Programming 
 
 
-It's very much likely that you've heard of Object Oriented Programming (OOP) somewhere. It is one of the most popular programming paradigms in modern world. To become a solid programmer you need to have a good understanding about what it is.
-
-I told you before that my plan is to become a PHP developer. But I researched that the most ideal object oriented language is Java. So I took some very elementary courses on Java to get a feel for OOP.
+As you are reading this blog post, you’re likely to hear of Object Oriented Programming (OOP) somewhere. It is one of the most popular programming paradigms in the modern world. So, to become a solid programmer, you need to understand what it is.
+I told you before that I plan to become a PHP developer. But I researched that the ideal object-oriented language is Java. So I took some elementary courses on Java to get a feel for OOP.
 
 | ![Object-Oriented Design by Barron and Olivia Stone](https://www.evernote.com/l/AoQ3rsO4-55PHpYfNIkF7gDX0b1cfA22JtMB/image.png) |
 |:--:|
 | <b>Object-Oriented Design by Barron and Olivia Stone (Image: LinkedIn Learning)</b>|
 
-This course by Barron and Olivia Stone can be a great starting point. It's a very fun and engagine course. Here you get to know the basics of OOP with real-world example. To complete this course you need to have a very basic coding experience. So completing the C part of the CS50 can be more than okay. 
+This course by Barron and Olivia Stone can be a great starting point. It’s an enjoyable and engaging course. Here you get to know the basics of OOP with real-world examples. To complete this course, you need to have an elementary coding experience. So doing the C part of the CS50 can be more than enough.
 
-In this you don't have to code actually. You will get to grasp the main idea behind the OOP paradigm.
+In this, you don’t have to code. Instead, you will get to grasp the main idea behind the OOP paradigm.
 
-You can complete it on LinkedIn Learning follwing [this link](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-object-oriented-design-3%3Ftrk%3Dshare_ent_url%26shareId%3DQH1p4hlUTLyAZN47lmZtXQ%253D%253D).
+You can complete it on LinkedIn Learning by following [this link](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-object-oriented-design-3%3Ftrk%3Dshare_ent_url%26shareId%3DQH1p4hlUTLyAZN47lmZtXQ%253D%253D).
 
-To better understand OOP fundamentals I would suggest you two courses on Java. They are also hosted on LinkedIn Learning.
+After this, to better understand OOP fundamentals, I suggest you take two courses on Java. They are also available on LinkedIn Learning.
 
-Both of the courses are created by Kathryn Hodge. The the first one is "Learning Java" [(link)](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-java-4%3Ftrk%3Dshare_ent_url%26shareId%3DTcfPoX58RmaneL3Wa14ggQ%253D%253D).
+Both of the courses are by Kathryn Hodge. The first one is “Learning Java” [(link)](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-java-4%3Ftrk%3Dshare_ent_url%26shareId%3DTcfPoX58RmaneL3Wa14ggQ%253D%253D).
 
 The second one is Java Object-Oriented Programming [(link)](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjava-object-oriented-programming-2%3Ftrk%3Dshare_ent_url%26shareId%3Dmypsh16JR2%252BDjb8hvnQihg%253D%253D).
 
-The first course teaches you the very basics of Java and the second one teaches the implementations of the OOP concepts.
+The first course teaches you the basics of Java. And the second one teaches the implementations of the OOP concepts.
 
 (to be continued)
-
