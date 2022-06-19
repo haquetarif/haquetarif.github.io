@@ -13,7 +13,7 @@ And we believe in some myths like, "You need to be super-good at maths to be a p
 
 Now I'm a business grad. And I have been in this phase. 
 
-But thankfully (Mash Allah), I have been working in a software company for a few years now.
+But thankfully, I have been working in a software company for a few years now.
 
 Almost everyone codes here to some extent.
 
@@ -34,7 +34,7 @@ It doesn't matter what it is but be clear about it.
 
 It is okay not to be sure at the beginning, but soon after that, you should have a clear answer.
 
-### Step 2: A Solid Foundation with CS50
+### Step 2: Start with A Solid Foundation with CS50
 
 |![Professor David J. Malan](https://www.harvardmagazine.com/sites/default/files/img/article/0609/0709_51_001_.jpg "The Elvis Presley of Computer Science")|
 |:--:|
@@ -56,6 +56,7 @@ To start this course, you don't need any prior coding experience whatsoever.
 |:--:|
 | <b>Scratch Programming Language (Image: Scratch Wiki)</b>|
 
+
 This course will start with a programming language called Scratch. It's a drag-and-drop language where you will find blocks for every programming keyword like "if," "else," etc. You must build a game or something with Scratch for the first assignment.
 
 Then after week 0, you will start learning C programming. But please don't get panicked. He will make C a friend of yours if you stick by till the end. 
@@ -74,5 +75,31 @@ But I want to complete the whole course someday, just for the sake of enjoyment.
 
 You can take it by visiting this [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
 
-(to be continued, Insha Allah)
+
+### Step 3: Get a Feel for Object Oriented Programming 
+
+
+It's very much likely that you've heard of Object Oriented Programming (OOP) somewhere. It is one of the most popular programming paradigms in modern world. To become a solid programmer you need to have a good understanding about what it is.
+
+I told you before that my plan is to become a PHP developer. But I researched that the most ideal object oriented language is Java. So I took some very elementary courses on Java to get a feel for OOP.
+
+| ![Object-Oriented Design by Barron and Olivia Stone](https://www.evernote.com/l/AoQ3rsO4-55PHpYfNIkF7gDX0b1cfA22JtMB/image.png) |
+|:--:|
+| <b>Object-Oriented Design by Barron and Olivia Stone (Image: LinkedIn Learning)</b>|
+
+This course by Barron and Olivia Stone can be a great starting point. It's a very fun and engagine course. Here you get to know the basics of OOP with real-world example. To complete this course you need to have a very basic coding experience. So completing the C part of the CS50 can be more than okay. 
+
+In this you don't have to code actually. You will get to grasp the main idea behind the OOP paradigm.
+
+You can complete it on LinkedIn Learning follwing [this link](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-object-oriented-design-3%3Ftrk%3Dshare_ent_url%26shareId%3DQH1p4hlUTLyAZN47lmZtXQ%253D%253D).
+
+To better understand OOP fundamentals I would suggest you two courses on Java. They are also hosted on LinkedIn Learning.
+
+Both of the courses are created by Kathryn Hodge. The the first one is "Learning Java" [(link)](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-java-4%3Ftrk%3Dshare_ent_url%26shareId%3DTcfPoX58RmaneL3Wa14ggQ%253D%253D).
+
+The second one is Java Object-Oriented Programming [(link)](https://www.linkedin.com/learning-login/share?account=95231473&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjava-object-oriented-programming-2%3Ftrk%3Dshare_ent_url%26shareId%3Dmypsh16JR2%252BDjb8hvnQihg%253D%253D).
+
+The first course teaches you the very basics of Java and the second one teaches the implementations of the OOP concepts.
+
+
 
