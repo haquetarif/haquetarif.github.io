@@ -1,7 +1,9 @@
 ---
+author: "Tarif Haque"
 title: "Welcome to Tarif's Blog!"
 date: 2023-08-01T14:34:37+06:00
 draft: false
+weight: 1 
 ---
 ## Introduction
 
