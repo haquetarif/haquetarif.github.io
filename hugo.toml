@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = 'Tarif Haque'
 theme = 'PaperMod'
 sectionPagesMenu = 'main'
+
+
+
+[Params]
+  comments = true
+
