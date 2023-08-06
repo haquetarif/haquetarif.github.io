@@ -45,7 +45,7 @@ The update was more than 12 GB for me. It took a lot of time.
 But finally, it worked. And I've written this blog in .MD 
 (markdown file).
 
-And you are seeing this via Jekyll. 
+And you are seeing this via Jekyll (now in Hugo, that's another story for some other day). 
 
 The lesson of the day is 
 
