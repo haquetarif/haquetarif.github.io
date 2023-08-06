@@ -4,7 +4,7 @@ date: 2023-08-01T16:18:24+06:00
 draft: false
 ---
 
-## Wanted to work with Jekyll but
+### Wanted to work with Jekyll but
 # Configuring Ruby on Mac Was Very Frustrating
 ### And how I nailed it
 
