@@ -4,25 +4,24 @@
     <title>Posts on Tarif Haque</title>
     <link>http://haquetarif.github.io/posts/</link>
     <description>Recent content in Posts on Tarif Haque</description>
+    <image>
+      <title>Tarif Haque</title>
+      <url>http://haquetarif.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://haquetarif.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 01 Aug 2023 16:18:24 +0600</lastBuildDate><atom:link href="http://haquetarif.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome to Tarif&#39;s Blog!</title>
-      <link>http://haquetarif.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 01 Aug 2023 14:34:37 +0600</pubDate>
-      
-      <guid>http://haquetarif.github.io/posts/my-first-post/</guid>
-      <description>Tarif is a poet and coder. He wirites here usually when he’s got his coder hat on. Please &lt;em&gt;stick around&lt;/em&gt; for some &lt;strong&gt;awesome updates.&lt;/strong&gt;</description>
-    </item>
-    
     <item>
       <title>Configuring Ruby on Mac Almost Killed Me</title>
       <link>http://haquetarif.github.io/posts/configuring-ruby-on-mac-almost-killed-me/</link>
       <pubDate>Tue, 01 Aug 2023 16:18:24 +0600</pubDate>
       
       <guid>http://haquetarif.github.io/posts/configuring-ruby-on-mac-almost-killed-me/</guid>
-      <description>Wanted to work with Jekyll but Configuring Ruby on Mac Was Very Frustrating And how I nailed it Hello, It&amp;rsquo;s Tarif Haque a noob dev.
+      <description>Wanted to work with Jekyll but
+Configuring Ruby on Mac Was Very Frustrating
+and how I nailed it
+Hello, It&amp;rsquo;s Tarif Haque a noob dev.
 I love simplicity. Maybe you do that as well.
 Whatever! The idea of modern static websites always intrigued me. But I never had the opportunity to dig deeper.
 Suddenly, I came across GitHub pages. Simply put, it&amp;rsquo;s a free hosting service for static pages by GitHub.</description>

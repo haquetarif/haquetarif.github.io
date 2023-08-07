@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://haquetarif.github.io/sitemap.xml
