@@ -77,6 +77,9 @@ params:
     Content: Tarif is a poet and coder. He writes here usually when he’s got his coder hat on. Please stick around for some awesome updates.
 
   socialIcons:
+  
+    - name: rss
+      url: "/posts/index.xml"
     - name: twitter
       url: "https://twitter.com/tarifhaque"
     - name: linkedin
