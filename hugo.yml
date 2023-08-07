@@ -82,7 +82,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/tarif-ul-haque/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/haquetarif"
 
   analytics:
     google:
