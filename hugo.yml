@@ -3,25 +3,28 @@ title: Tarif Haque
 paginate: 5
 theme: PaperMod
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
-  minifyOutput: true
+  #minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: Tarif Haque
+  description: "Poems,codes, and everything in-between"
+  keywords: [Blog, Portfolio, Tarif Hauqe]
   author: Tarif Haque
   # author: ["Me", "You"] # multiple authors
-  images: "tarif.png" #["<link or path of image for opengraph, twitter-cards>"]
+  images: ["tarif.png"] #["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -30,7 +33,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -42,14 +45,15 @@ params:
   showtoc: false
   tocopen: false
 
+
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    disableHLJS: true # to disable highlight.js
+    #   disableFingerprinting: true
+    #   favicon: "<link / abs url>"
+    #   favicon16x16: "<link / abs url>"
+    #   favicon32x32: "<link / abs url>"
+    #   apple_touch_icon: "<link / abs url>"
+    #   safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Tarif Haque"
@@ -79,7 +83,7 @@ params:
   socialIcons:
   
     - name: rss
-      url: "/posts/index.xml"
+      url: "index.xml"
     - name: twitter
       url: "https://twitter.com/tarifhaque"
     - name: linkedin
