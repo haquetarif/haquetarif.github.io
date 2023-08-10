@@ -3,6 +3,11 @@ menu: main
 title: About
 ---
 
+
+{{< rawhtml >}}
+<img style="border-radius:50%;margin-left:auto;margin-right:auto;" width="50%" src="/me.png" alt="Picture of me">
+{{< /rawhtml >}}
+
 #### Born in 1991 in Kurigram, a remote northern town in Bangladesh. It was so remote that even national newspapers used to take around 24 hours to reach.
 
 Raised with a mind full of dreams, with science fiction books and videocassette movies. I grew a knack for IT in those early days of my life. Tried to read material about the new internet things like email, search engines, viruses, or anything. 
