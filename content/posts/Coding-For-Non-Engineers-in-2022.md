@@ -1,6 +1,6 @@
 ---
 title: "Coding for Non Engineers in 2022"
-date: 2023-08-01T16:12:54+06:00
+date: 2022-05-28T16:12:54+06:00
 draft: false
 ---
 Let's face it. We, the non-engineering background people, usually see the world of codes with fearful reverence.

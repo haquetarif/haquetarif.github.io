@@ -1,6 +1,6 @@
 ---
 title: "Configuring Ruby on Mac Almost Killed Me"
-date: 2023-08-01T16:18:24+06:00
+date: 2022-06-19T16:18:24+06:00
 draft: false
 ---
 
