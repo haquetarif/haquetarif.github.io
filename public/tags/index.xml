@@ -10,6 +10,25 @@
       <link>http://haquetarif.github.io/tarif.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://haquetarif.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Aug 2023 11:18:24 +0600</lastBuildDate><atom:link href="http://haquetarif.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random-Thoughts</title>
+      <link>http://haquetarif.github.io/tags/random-thoughts/</link>
+      <pubDate>Sun, 20 Aug 2023 11:18:24 +0600</pubDate>
+      
+      <guid>http://haquetarif.github.io/tags/random-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://haquetarif.github.io/tags/travel/</link>
+      <pubDate>Sun, 20 Aug 2023 11:18:24 +0600</pubDate>
+      
+      <guid>http://haquetarif.github.io/tags/travel/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
