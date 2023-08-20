@@ -14,3 +14,5 @@ weight: 1
 Tarif is a poet and coder. He wirites here usually when he’s got his coder hat on.
 
 Please *stick around* for some **awesome updates.**
+
+
