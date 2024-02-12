@@ -8,7 +8,8 @@ draft: false
 
 author: "Tarif Haque"
 
-tags: ["Random-Thoughts"]
+tags: 
+- Random-Thoughts
 
 ---
 
