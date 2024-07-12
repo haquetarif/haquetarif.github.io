@@ -21,9 +21,11 @@ It was my first startup. Though it failed, I learned a lot working on this.
 
 I've worked for different organizations mostly as Freelance Web Development Consultant.
 
-In **2020**, I joined weDevs, a leading WordPress development company. I worked there as an **Acting Product Manager**. I led the development of weMail, an email marketing SaaS solution.
+In **2020**, I joined [weDevs](https://wedevs.com/), a leading WordPress development company. I worked there as an **Acting Product Manager**. I led the development of weMail, an email marketing SaaS solution.
 
-In **2022**, I was hired by CNS Ltd., a big IT company with around one thousand of employees as a **Business Analyst** in the Software & System department. Currenly I'm working here in a **World Bank** Funded Bangladesh Insurance Sector Development Project (BISDP). 
+In **2022**, I was hired by [CNS Ltd.](https://site.cnsbd.com/), a big IT company with around one thousand of employees as a **Business Analyst** in the Software & System department. Currenly I'm working here in a **World Bank** Funded Bangladesh Insurance Sector Development Project (BISDP). I worked on and ERP (Accounts) mainly. I also worked on orther parts like Business Intelligence and HRMS. I worked for CNS for 2 years.
+
+This year **2024**, I have started working as a Business Analsyst at [Apsis Solutions](https://apsissolutions.com/). Like CNS, here I also work on ERP and HRMS products.
 
 I love to stargaze, walk in the moonlight, and read books when I'm free.
 
