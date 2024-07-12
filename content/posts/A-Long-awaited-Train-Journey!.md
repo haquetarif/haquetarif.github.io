@@ -1,5 +1,5 @@
 ---
-title: "A Long-awaited Train Journey!"
+title: "A Train Journey with Banalata Sen!"
 date: 2023-08-20T11:18:24+06:00
 draft: false
 tags:
