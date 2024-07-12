@@ -23,7 +23,7 @@ The quad seats made me feel like writing something... If I had no kids with me, 
 
 My wife asked me to play something. I played some old Bengali songs in a very low volume so that only four of us could listen.
 
-The kids got asleep soon after the train started to move. I was trying to enjoy the journey. The train got out of the city very fast. Soon it arrived near the Jamuna Multi-purpose Bridge that connects the western part of the country to the east. Before this bridge was built, it was a long horrific journey. Now another bridge, exclusively for the railway, is being built alongside this one. After this is done more trains will connect the somewhat economically backward eastern part of the country to the west.
+The kids got asleep soon after the train started to move. I was trying to enjoy the journey. The train got out of the city very fast. Soon it arrived near the Jamuna Multi-purpose Bridge that connects the east part of the country to the western. Before this bridge was built, it was a long horrific journey. Now another bridge, exclusively for the railway, is being built alongside this one. After this is done more trains will connect the somewhat economically backward western part of the country to the east.
 
 The train stopped at many stations. I got quite sleepy and couldn't keep track of all of them. It stopped at Natore.
 

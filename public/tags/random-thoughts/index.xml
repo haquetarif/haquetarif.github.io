@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Random-Thoughts on Tarif Haque</title>
-    <link>http://haquetarif.github.io/tags/random-thoughts/</link>
+    <link>http://localhost:1313/tags/random-thoughts/</link>
     <description>Recent content in Random-Thoughts on Tarif Haque</description>
     <image>
       <title>Tarif Haque</title>
-      <url>http://haquetarif.github.io/tarif.png</url>
-      <link>http://haquetarif.github.io/tarif.png</link>
+      <url>http://localhost:1313/tarif.png</url>
+      <link>http://localhost:1313/tarif.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Aug 2023 11:18:24 +0600</lastBuildDate><atom:link href="http://haquetarif.github.io/tags/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2024 17:32:46 +0600</lastBuildDate><atom:link href="http://localhost:1313/tags/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Am Alive</title>
+      <link>http://localhost:1313/posts/i-am-alive/</link>
+      <pubDate>Mon, 12 Feb 2024 17:32:46 +0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/i-am-alive/</guid>
+      <description>It&amp;rsquo;s been long since I posted here anything. Now everything seems strange sometime. Sometime very strange things completely normal. Am I going through a lot? Am I not?
+I don&amp;rsquo;t know. Sometimes it&amp;rsquo;s better not to know I guess. Absence of though altoghether is needed for sanity. I don&amp;rsquo;t want to run anymore. The restless days are gone.</description>
+    </item>
+    
     <item>
       <title>A Long-awaited Train Journey!</title>
-      <link>http://haquetarif.github.io/posts/a-long-awaited-train-journey/</link>
+      <link>http://localhost:1313/posts/a-long-awaited-train-journey/</link>
       <pubDate>Sun, 20 Aug 2023 11:18:24 +0600</pubDate>
       
-      <guid>http://haquetarif.github.io/posts/a-long-awaited-train-journey/</guid>
+      <guid>http://localhost:1313/posts/a-long-awaited-train-journey/</guid>
       <description>Last week I visited my hometown, Kurigram. For the first time, by a train. It is one of the most remote parts of Bangladesh. The journey was relatively smooth and took around nine hours.
 I booked quad seats for my family.
 Train Quad-Seats: Two seats facing each other, with a small table between The quad seats made me feel like writing something&amp;hellip; If I had no kids with me, I would have written something on the table in my writing pad or played chess, I was thinking.</description>

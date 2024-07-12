@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Tarif Haque</title>
-    <link>http://haquetarif.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Tarif Haque</description>
     <image>
       <title>Tarif Haque</title>
-      <url>http://haquetarif.github.io/tarif.png</url>
-      <link>http://haquetarif.github.io/tarif.png</link>
+      <url>http://localhost:1313/tarif.png</url>
+      <link>http://localhost:1313/tarif.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://haquetarif.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
