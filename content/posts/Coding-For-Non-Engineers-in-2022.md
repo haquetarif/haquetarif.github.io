@@ -1,5 +1,5 @@
 ---
-title: "Coding for Non Engineers in 2022"
+title: "Coding for Non Engineers"
 date: 2022-05-28T16:12:54+06:00
 draft: false
 ---
