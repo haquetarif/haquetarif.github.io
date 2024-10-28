@@ -197,7 +197,7 @@ Protests continued, and discussions around the demands of the Anti-discriminatio
 
 ### The Second Freedom
 
-### 1 August
+**1 August**
 
 In memory of those killed, injured, and tortured by police during the 2024 quota reform movement, the Anti-Discrimination Student Movement announced a nationwide program titled **"Remembering the Heroes"** on 1 August. This announcement was made in a press release signed by Rifat Rashid, one of the co-coordinators of the movement, on 31 July. He also called for online and offline campaigns in support of the movement and in memory of the martyrs, using the hashtags **#JulyMassacre** and **#RememberingOurHeroes** on social media platforms.
 
@@ -213,7 +213,7 @@ In Narayanganj, a Candlelight Vigil program organized in support of "Remembering
 
 * * *
 
-### 2 August
+**2 August**
 
 Protesters in Rangpur chanted Shame shame Hasina, we can't live out of shame", seeking justice for victims affected by the unrest and police crackdown following the release of student leaders. This release did not alleviate public anger, leading to renewed protests. Demonstrators demanded the reopening of schools and universities across the country and called for Sheikh Hasina’s resignation. Clashes erupted as police fired rubber bullets, tear gas shells, and sound grenades in several locations, including Uttara, Khulna, Sylhet, and Habiganj. Tragically, one police officer was beaten to death by protesters in Khulna, while one civilian lost their life in Habiganj.
 
@@ -225,7 +225,7 @@ The United Nations agency for children and culture, UNICEF, expressed concern ov
 
 * * *
 
-### 3 August
+**3 August**
 
 In the early hours of the day, another injured person succumbed to their injuries while receiving treatment.
 
@@ -251,15 +251,15 @@ In Bogra, repeated clashes occurred between protesting students and the police. 
 
 ### Non-cooperation Movement
 
-#### 4 August
+**4 August**
 
 The day became the deadliest of the protests, with around 91 people killed, including 14 police officers. Clashes erupted between protesters and police while protesters blocked major highways. Police stations and Awami League offices were targeted by rioters. The police used tear gas and claimed to have fired rubber bullets, although some people were injured and killed by actual bullets. The renewed demonstrations led the government to shut down the internet and declare an indefinite nationwide curfew starting from 6 PM.
 
 Sheikh Hasina criticized the protesting students, stating that those who engage in **"sabotage"** and destruction were no longer students but **"terrorists,"** while the protesters continued to call for her resignation.
 
-* * *
+### Fall of a Tyrant and Rise of a Nation
 
-#### 5 August
+**5 August**
 
 Prime Minister Sheikh Hasina resigned and fled the country to India, "for her own safety," according to her son, Sajeeb Wazed.
 
