@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tarif Haque</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://haquetarif.github.io/posts/</link>
     <description>Recent content in Posts on Tarif Haque</description>
     <image>
       <title>Tarif Haque</title>
-      <url>http://localhost:1313/tarif.png</url>
-      <link>http://localhost:1313/tarif.png</link>
+      <url>http://haquetarif.github.io/tarif.png</url>
+      <link>http://haquetarif.github.io/tarif.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Feb 2024 17:32:46 +0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jul 2024 14:18:24 +0600</lastBuildDate><atom:link href="http://haquetarif.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bangladesh: A Country Under Revolution!</title>
+      <link>http://haquetarif.github.io/posts/bangladesh-a-country-under-revolution/</link>
+      <pubDate>Sat, 20 Jul 2024 14:18:24 +0600</pubDate>
+      
+      <guid>http://haquetarif.github.io/posts/bangladesh-a-country-under-revolution/</guid>
+      <description>&amp;ldquo;For a routine job, you need Clerks. For a battle, you need Soldiers. For a war, you need Generals. For a World War, you need Field Marshals. But for a Revolution, you need common men and women, millions of them, with a common dream.&amp;rdquo; — Tarif Haque
+More than Hundred Killed &amp;amp; Thousands Injured, Curfew Declared Right now, my country, Bangladesh, is undergoing a long awaited revolution. It started as a very simple demonestration by some students for fair and logical reform of the quota system for government jobs.</description>
+    </item>
+    
     <item>
       <title>A Train Journey with Banalata Sen!</title>
-      <link>http://localhost:1313/posts/a-long-awaited-train-journey/</link>
+      <link>http://haquetarif.github.io/posts/a-long-awaited-train-journey/</link>
       <pubDate>Sun, 20 Aug 2023 11:18:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/posts/a-long-awaited-train-journey/</guid>
+      <guid>http://haquetarif.github.io/posts/a-long-awaited-train-journey/</guid>
       <description>Last week I visited my hometown, Kurigram. For the first time, by a train. It is one of the most remote parts of Bangladesh. The journey was relatively smooth and took around nine hours.
 I booked quad seats for my family.
 Train Quad-Seats: Two seats facing each other, with a small table between The quad seats made me feel like writing something&amp;hellip; If I had no kids with me, I would have written something on the table in my writing pad or played chess, I was thinking.</description>
@@ -25,10 +35,10 @@ Train Quad-Seats: Two seats facing each other, with a small table between The qu
     
     <item>
       <title>Configuring Ruby on Mac Almost Killed Me</title>
-      <link>http://localhost:1313/posts/configuring-ruby-on-mac-almost-killed-me/</link>
+      <link>http://haquetarif.github.io/posts/configuring-ruby-on-mac-almost-killed-me/</link>
       <pubDate>Sun, 19 Jun 2022 16:18:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/posts/configuring-ruby-on-mac-almost-killed-me/</guid>
+      <guid>http://haquetarif.github.io/posts/configuring-ruby-on-mac-almost-killed-me/</guid>
       <description>Wanted to work with Jekyll but
 Configuring Ruby on Mac Was Very Frustrating
 and how I nailed it
@@ -40,10 +50,10 @@ Suddenly, I came across GitHub pages. Simply put, it&amp;rsquo;s a free hosting 
     
     <item>
       <title>Coding for Non Engineers</title>
-      <link>http://localhost:1313/posts/coding-for-non-engineers-in-2022/</link>
+      <link>http://haquetarif.github.io/posts/coding-for-non-engineers-in-2022/</link>
       <pubDate>Sat, 28 May 2022 16:12:54 +0600</pubDate>
       
-      <guid>http://localhost:1313/posts/coding-for-non-engineers-in-2022/</guid>
+      <guid>http://haquetarif.github.io/posts/coding-for-non-engineers-in-2022/</guid>
       <description>Let&amp;rsquo;s face it. We, the non-engineering background people, usually see the world of codes with fearful reverence.
 Nonetheless, we want to learn it with all our hearts (at least a few of us genuinely do).
 And we believe in some myths like, &amp;ldquo;You need to be super-good at maths to be a programmer,&amp;rdquo; etc.
