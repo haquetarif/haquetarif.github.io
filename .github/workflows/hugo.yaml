@@ -2,7 +2,7 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: [master]  # <-- updated from "main" to "master"
+    branches: [master]
   workflow_dispatch:
 
 permissions:
@@ -19,8 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.123.0
+
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
           submodules: recursive
@@ -34,24 +35,24 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
 
-      - name: Setup Pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v4
         id: pages
 
-      - name: Install Node.js dependencies
+      - name: Install Node.js dependencies (if any)
         run: |
           if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then
             npm ci
           fi
 
-      - name: Build with Hugo
+      - name: Build Hugo site
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Upload build output
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
@@ -62,7 +63,8 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-
+        uses: actions/deploy-pages@v4
