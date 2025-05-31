@@ -1,0 +1,146 @@
+baseURL = "http://haquetarif.github.io/"
+title = "Tarif Haque"
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+ignoreLogs = ["warning-goldmark-raw-html"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[pagination]
+  pagerSize = 5
+
+[minify]
+  disableXML = true
+
+[params]
+  env = "production"
+  title = "Tarif Haque"
+  description = "Poems,codes, and everything in-between"
+  keywords = ["Blog", "Portfolio", "Tarif Hauqe"]
+  author = "Tarif Haque"
+  images = ["tarif.png"]
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = true
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.assets]
+    disableHLJS = true
+
+  [params.label]
+    text = "Tarif Haque"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = false
+    title = "ExampleSite"
+    subtitle = "This is subtitle"
+    imageUrl = "<img location>"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "posts"
+
+    [[params.profileMode.buttons]]
+      name = "Tags"
+      url = "tags"
+
+  [params.homeInfoParams]
+    Title = "Welcome to Tarif's Blog! 👋"
+    Content = "Tarif is a poet and coder. He writes here usually when he’s got his coder hat on. Please stick around for some awesome updates."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/tarifhaque"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/tarif-ul-haque/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/haquetarif"
+
+  [params.analytics.google]
+    SiteVerificationTag = "XYZabc"
+
+  [params.analytics.bing]
+    SiteVerificationTag = "XYZabc"
+
+  [params.analytics.yandex]
+    SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+    hidden = true
+    hiddenInList = true
+    hiddenInSingle = true
+
+  [params.editPost]
+    URL = "https://github.com/haquetarif/haquetarif.github.io/edit/master/content"
+    Text = "Suggest Changes"
+    appendFilePath = true
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+  [params.utterances]
+    repo = "haquetarif/haquetarif.github.io"  # ← Replace with your repo
+    issueTerm = "pathname"                    # Or "title", "url", etc.
+    label = "💬 comment"                      # Optional
+    theme = "github-dark"                     # Use "github-light" if your theme is light
+    crossorigin = "anonymous"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "Tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20

@@ -9,67 +9,95 @@
       <url>http://localhost:1313/tarif.png</url>
       <link>http://localhost:1313/tarif.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jul 2024 14:18:24 +0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jul 2024 14:18:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangladesh: A Country Under Revolution!</title>
       <link>http://localhost:1313/posts/bangladesh-a-country-under-revolution/</link>
       <pubDate>Sat, 20 Jul 2024 14:18:24 +0600</pubDate>
-      
       <guid>http://localhost:1313/posts/bangladesh-a-country-under-revolution/</guid>
-      <description>&amp;ldquo;For routine jobs, you need clerks; for battles, soldiers; and for wars, generals. But for a Revolution, my friend, you need common men and women, millions of them, with a common dream.&amp;rdquo;
-— Tarif Haque
-More than Hundred Killed &amp;amp; Thousands Injured, Curfew Declared Right now, my country, Bangladesh, is undergoing a long awaited revolution. It started as a very simple demonestration by some students for fair and logical reform of the quota system for government jobs.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;For routine jobs, you need clerks; &lt;/br&gt;
+for battles, soldiers;&lt;/br&gt;
+and for wars, generals.&lt;/br&gt;
+But for a Revolution, my friend, you need common men and women, millions of them, with a common dream.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— &lt;cite&gt;Tarif Haque&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;A Daily Newspaper on 20 July 2024&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/BD-Newspaper-20-July-2024.jpg&#34; title=&#34;A Daily Newspaper on 20 July 2024&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;b&gt;More than Hundred Killed &amp;amp; Thousands Injured, Curfew Declared&lt;/b&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Right now, my country, Bangladesh, is undergoing a long awaited revolution. It started as a very simple demonestration by some students for fair and logical reform of the quota system for government jobs. For the first few days it was mostly peaceful and government also didn&amp;rsquo;t show it&amp;rsquo;s iron fist.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Train Journey with Banalata Sen!</title>
       <link>http://localhost:1313/posts/a-long-awaited-train-journey/</link>
       <pubDate>Sun, 20 Aug 2023 11:18:24 +0600</pubDate>
-      
       <guid>http://localhost:1313/posts/a-long-awaited-train-journey/</guid>
-      <description>Last week I visited my hometown, Kurigram. For the first time, by a train. It is one of the most remote parts of Bangladesh. The journey was relatively smooth and took around nine hours.
-I booked quad seats for my family.
-Train Quad-Seats: Two seats facing each other, with a small table between The quad seats made me feel like writing something&amp;hellip; If I had no kids with me, I would have written something on the table in my writing pad or played chess, I was thinking.</description>
+      <description>&lt;p&gt;Last week I visited my hometown, Kurigram. For the first time, by a train. It is one of the most remote parts of Bangladesh. The journey was relatively smooth and took around nine hours.&lt;/p&gt;
+&lt;p&gt;I booked quad seats for my family.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;Train Quad-Seats&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/quad-seats.jpeg&#34; title=&#34;Train Quad-Seats&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;b&gt;Train Quad-Seats: Two seats facing each other, with a small table between&lt;/b&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The quad seats made me feel like writing something&amp;hellip; If I had no kids with me, I would have written something on the table in my writing pad or played chess, I was thinking.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Configuring Ruby on Mac Almost Killed Me</title>
       <link>http://localhost:1313/posts/configuring-ruby-on-mac-almost-killed-me/</link>
       <pubDate>Sun, 19 Jun 2022 16:18:24 +0600</pubDate>
-      
       <guid>http://localhost:1313/posts/configuring-ruby-on-mac-almost-killed-me/</guid>
-      <description>Wanted to work with Jekyll but
-Configuring Ruby on Mac Was Very Frustrating
-and how I nailed it
-Hello, It&amp;rsquo;s Tarif Haque a noob dev.
-I love simplicity. Maybe you do that as well.
-Whatever! The idea of modern static websites always intrigued me. But I never had the opportunity to dig deeper.
-Suddenly, I came across GitHub pages. Simply put, it&amp;rsquo;s a free hosting service for static pages by GitHub.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Wanted to work with Jekyll but&lt;/p&gt;
+&lt;p&gt;Configuring Ruby on Mac Was Very Frustrating&lt;/p&gt;
+&lt;p&gt;and how I nailed it&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Hello, It&amp;rsquo;s Tarif Haque a noob dev.&lt;/p&gt;
+&lt;p&gt;I love simplicity. Maybe you do that as well.&lt;/p&gt;
+&lt;p&gt;Whatever! The idea of modern static websites always
+intrigued me. But I never had the opportunity to dig
+deeper.&lt;/p&gt;
+&lt;p&gt;Suddenly, I came across GitHub pages. Simply put,
+it&amp;rsquo;s a free hosting service for static pages by GitHub.
+Again, you can get an awesome &lt;username&gt;.github.io
+Subdomain for free.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Coding for Non Engineers</title>
       <link>http://localhost:1313/posts/coding-for-non-engineers-in-2022/</link>
       <pubDate>Sat, 28 May 2022 16:12:54 +0600</pubDate>
-      
       <guid>http://localhost:1313/posts/coding-for-non-engineers-in-2022/</guid>
-      <description>Let&amp;rsquo;s face it. We, the non-engineering background people, usually see the world of codes with fearful reverence.
-Nonetheless, we want to learn it with all our hearts (at least a few of us genuinely do).
-And we believe in some myths like, &amp;ldquo;You need to be super-good at maths to be a programmer,&amp;rdquo; etc.
-Now I&amp;rsquo;m a business grad. And I have been in this phase.
-But thankfully, I have been working in a software company for a few years now.</description>
+      <description>&lt;p&gt;Let&amp;rsquo;s face it. We, the non-engineering background people, usually see the world of codes with fearful reverence.&lt;/p&gt;
+&lt;p&gt;Nonetheless, we want to learn it with all our hearts (at least a few of us genuinely do).&lt;/p&gt;
+&lt;p&gt;And we believe in some myths like, &amp;ldquo;You need to be super-good at maths to be a programmer,&amp;rdquo; etc.&lt;/p&gt;
+&lt;p&gt;Now I&amp;rsquo;m a business grad. And I have been in this phase.&lt;/p&gt;
+&lt;p&gt;But thankfully, I have been working in a software company for a few years now.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/about/</guid>
-      <description>Born in 1991 in Kurigram, a remote northern town in Bangladesh. It was so remote that even national newspapers used to take around 24 hours to reach. Raised with a mind full of dreams, with science fiction books and videocassette movies. I grew a knack for IT in those early days of my life. Tried to read material about the new internet things like email, search engines, viruses, or anything.</description>
+      <description>&lt;img style=&#34;border-radius:50%;margin-left:auto;margin-right:auto;&#34; width=&#34;50%&#34; src=&#34;http://localhost:1313/me.png&#34; alt=&#34;Picture of me&#34;&gt;
+
+&lt;h4 id=&#34;born-in-1991-in-kurigram-a-remote-northern-town-in-bangladesh-it-was-so-remote-that-even-national-newspapers-used-to-take-around-24-hours-to-reach&#34;&gt;Born in 1991 in Kurigram, a remote northern town in Bangladesh. It was so remote that even national newspapers used to take around 24 hours to reach.&lt;/h4&gt;
+&lt;p&gt;Raised with a mind full of dreams, with science fiction books and videocassette movies. I grew a knack for IT in those early days of my life. Tried to read material about the new internet things like email, search engines, viruses, or anything.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
