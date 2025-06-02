@@ -25,10 +25,10 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages (User Site)
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: master
+          publish_branch: gh-pages    # ✅ deploy to gh-pages
           force_orphan: true
