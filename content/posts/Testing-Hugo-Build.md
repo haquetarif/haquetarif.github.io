@@ -9,9 +9,7 @@ tags:
 
 
 
-Last week I visited my hometown, Kurigram. For the first time, by a train. It is one of the most remote parts of Bangladesh. The journey was relatively smooth and took around nine hours. 
-
-I booked quad seats for my family.
+The situation is CRAZY.
 
 
 
@@ -57,5 +55,3 @@ I can't resist the temptation to share an English translation of the poem by Cli
 > darkness remains, as I sit there face to face with Banalata Sen.
 
 I inhaled the morning wind in my heart and touched some dew drops in Natore of Banalata Sen and headed towards my hometown again.
-
-
